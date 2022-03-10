@@ -12,7 +12,7 @@ int main() {
 
 		cout << it->first << "   " << it->second << endl;
 	}
-	
+	cout << "zq" << endl;
 
 
 }
