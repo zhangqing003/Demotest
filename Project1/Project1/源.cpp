@@ -13,5 +13,11 @@ int main() {
 
 		cout << it->first << "   " << it->second << endl;
 	}
+<<<<<<< HEAD
 	cout << "hhh" << endl;
+=======
+	cout << "zq" << endl;
+
+
+>>>>>>> zq
 }
